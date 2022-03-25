@@ -1,13 +1,24 @@
-### Hi there 👋, my name is West
-#### I am a Roblox game developer
-![I am a Roblox game developer](https://github.com/Concxpts/Concxpts/blob/main/GitHub%20Banner.png)
+### Hi there 👋, my name is West Fleener
+#### I am a Developer.
+I have been a developer for around 7 years, and have been experienced for around 3. Currently, I am doing Roblox freelancing for short-term and commission-based jobs. I am gaining knowledge and more for my portfolio, along with earning some cash on the side. I have big aspirations to establish a successful game studio with the community in mind, creating games that many people will enjoy. Contact me via email or Discord if you would like to hire me.
 
-I am an experienced computer programmer (7 years) that is currently specialized in basic web development and Roblox's take on the Lua programming language.
+**itzslasher87@gmail.com**
+**Concepts#8698**
 
-Skills: R Lua // HTML // CSS
+If you cannot contact me via Discord, please let me know. I have likely changed my username.
+
+Skills: **Lua, C#, HTML, CSS**
 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Concxpts)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Concxpts&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concxpts)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Concxpts&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Concxpts)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Concxpts)  
+
+![Profile views](https://gpvc.arturio.dev/Concxpts)  
