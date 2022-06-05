@@ -17,8 +17,6 @@ Skills: **Lua, C#, HTML, CSS**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Concxpts&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Concxpts)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Concxpts)  
 
 ![Profile views](https://gpvc.arturio.dev/Concxpts)  
