@@ -1,4 +1,4 @@
-### Hi there 👋, my name is West Fleener
+### Hi there 👋, I'm Concepts.
 #### I am a Developer.
 I have been a developer for around 7 years, and have been experienced for around 3. Currently, I am doing Roblox freelancing for short-term and commission-based jobs. I am gaining knowledge and more for my portfolio, along with earning some cash on the side. I have big aspirations to establish a successful game studio with the community in mind, creating games that many people will enjoy. Contact me via email or Discord if you would like to hire me.
 
