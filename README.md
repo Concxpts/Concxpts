@@ -5,6 +5,6 @@ I have been dabbling in the arts of computer science for around 7 years. Current
 
 Skills: **Lua, C#, HTML, CSS**
 
-### ![Portfolio](https://deadpan-spider-049.notion.site/Portfolio-5f49b48b521546eeb1301ab2634c3c38)
+### [Portfolio](https://deadpan-spider-049.notion.site/Portfolio-5f49b48b521546eeb1301ab2634c3c38)
 
 ![Profile views](https://gpvc.arturio.dev/Concxpts)  
